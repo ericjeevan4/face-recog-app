@@ -1,6 +1,6 @@
 flask==3.1.2
 torch==2.5.1
 torchvision==0.23.0
-facenet-pytorch==2.6.0
-Pillow==10.2.0
-gunicorn==23.0.0
+facenet-pytorch==2.5.3
+Pillow
+gunicorn
